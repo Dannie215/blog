@@ -5,7 +5,7 @@ $id = $_GET['id'];
 
 <?php
 
-$connection = mysql_connect('127.0.0.1', 'root', 'basketbal1');
+$connection = mysql_connect('127.0.0.1', 'root', 'test54321');
 mysql_select_db('DANNIE_blog');
 // mysql_connect(‘SQLdata.com’, ‘Jones’, ‘un1c0rn’, ‘my_database’);
 
